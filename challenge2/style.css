@@ -1,0 +1,33 @@
+body{
+background-color: rgb(189, 139, 169);
+font-weight: bold;
+
+}
+h1{
+font-family: "Lexend Giga", serif;   
+font-size: 2.5 rem;
+color: rgb(119, 14, 73);
+}
+h2{
+font-family: Verdana, sans-serif;
+color: rgb(49, 24, 40);
+font-weight: bold;
+text-align: center;
+}
+h3{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: rgb(66, 2, 40);
+font-weight: bold;
+text-align: center;
+}
+p{
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: rgb(80, 16, 85);
+}
+ol{ 
+font-family: "Lexend Giga", serif;
+font-size: 7.5 rem;
+color: rgb(96, 7, 59);
+font-weight: bold;
+    
+}
